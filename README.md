@@ -11,7 +11,7 @@ Those are the datasets :
 
 ### Installation
 
-    *Clone the repository:*
+    Clone the repository:
 
 
 ```bash
@@ -19,14 +19,14 @@ Those are the datasets :
 
 ```
 
-    *Navigate to the project directory:*
+    Navigate to the project directory:
 
 
 ```bash
     cd detection-spam-ML
 ```  
 
-    *Create a virtual environment:*
+    Create a virtual environment:
 
 ```bash
     python -m venv myenv
